@@ -1,3 +1,2 @@
-# Time-Series-Study
-John Liao
+This repo consist of some timeseries-related studies and projects.
 
